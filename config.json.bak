@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6281330882030@s.whatsapp.net",
+  "botName": "SHIZU BOT",
+  "ownerName": "Shizu",
+  "footer": "*2022 © BABYBOT*",
+  "apikey": "APIKEY",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "shizu",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
